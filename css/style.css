@@ -1,5 +1,9 @@
+@font-face {
+    font-family: 'MinhaFonte';
+    src: url('fonts/Conthrax-SemiBold.otf') format('otf');
+}
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'MinhaFonte';
     margin: 0;
     padding: 0;
     background-color: #ddb2c9;
